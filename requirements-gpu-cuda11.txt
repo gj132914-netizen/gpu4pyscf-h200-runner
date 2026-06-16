@@ -1,0 +1,7 @@
+numpy
+pyscf
+geometric
+cupy-cuda11x
+cutensor-cu11
+gpu4pyscf-cuda11x
+

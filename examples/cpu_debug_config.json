@@ -1,0 +1,23 @@
+{
+  "xyz": "examples/example_water.xyz",
+  "job_name": "water_cpu_debug",
+  "outdir": "pyscf_h200_output",
+  "backend": "cpu",
+  "gpu_method": "auto",
+  "fallback_cpu": true,
+  "charge": 0,
+  "spin": 0,
+  "basis": "def2-svp",
+  "xc": "b3lyp",
+  "density_fit": true,
+  "grid_level": 2,
+  "max_cycle": 100,
+  "conv_tol": 1e-8,
+  "memory_mb": 8000,
+  "threads": 4,
+  "opt": false,
+  "gradient": false,
+  "hessian": false,
+  "dipole": true
+}
+

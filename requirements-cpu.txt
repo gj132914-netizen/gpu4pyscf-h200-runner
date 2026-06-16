@@ -1,0 +1,4 @@
+numpy
+pyscf
+geometric
+

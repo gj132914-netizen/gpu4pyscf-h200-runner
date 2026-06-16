@@ -1,7 +1,0 @@
-numpy
-pyscf
-geometric
-cupy-cuda13x
-cutensor-cu13
-gpu4pyscf-cuda13x
-
